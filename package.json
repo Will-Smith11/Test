@@ -1,12 +1,11 @@
 {
-  "name": "prepacktest",
+  "name": "aaaaaaaa",
   "version": "1.0.0",
   "description": "ur mom is gay",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
-    "prepack": "date > test_573256789.txt",
-    "prepare": "date > test_573256789.txt"
+    "prepack": "date > test_573256789.txt"
   },
   "repository": {
     "type": "git",
