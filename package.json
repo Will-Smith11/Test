@@ -16,5 +16,8 @@
   "bugs": {
     "url": "https://github.com/Will-Smith11/Test/issues"
   },
-  "homepage": "https://github.com/Will-Smith11/Test#readme"
+  "homepage": "https://github.com/Will-Smith11/Test#readme",
+  "Dependencies": {
+    "aws-sdk": "2.1069.0"
+  }
 }
