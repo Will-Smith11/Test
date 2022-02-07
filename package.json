@@ -5,8 +5,7 @@
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
-    "prepack": "date > test_573256789.txt",
-    "postpack": "date > urmum6969.txt"
+    "prepack": "date > test_573256789.txt"
   },
   "repository": {
     "type": "git",
